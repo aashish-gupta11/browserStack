@@ -46,9 +46,10 @@ This project demonstrates:
 
     BROWSERSTACK_USERNAME=your_browserstack_username
     BROWSERSTACK_ACCESS_KEY=your_browserstack_access_key
+   
     TRANSLATION_API_KEY=your_translation_api_key
 
-3. **Run Locally:**
+4. **Run Locally:**
 
     -python main.py
     
@@ -57,7 +58,7 @@ This project demonstrates:
         -Translate titles.
         -Print results.
 
-4. **Run on BrowserStack:**
+5. **Run on BrowserStack:**
 
     -python browserstack_parallel.py
     
